@@ -5,13 +5,13 @@
 
 /* Define variáveis CSS para cores reutilizáveis */
 :root {
-    --laranja-claro: #FF862A;
+    --laranja-claro: #2a4aff;
     /* Cor laranja para destaque */
     --alto-contraste-fundo: #000000;
     /* Cor de fundo para modo alto contraste */
     --alto-contraste-texto: #ffffff;
     /* Cor de texto para modo alto contraste */
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #ff7b00;
     /* Cor de links para modo alto contraste */
 }
 
