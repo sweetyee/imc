@@ -37,6 +37,18 @@ h2 {
     /* Cor laranja definida na variável */
 }
 
+/* Estilos para títulos h2 */
+h1 {
+    font-family: 'Lemon', serif;
+    /* Fonte especial para títulos */
+    font-size: 2.0em;
+    /* Tamanho grande para títulos */
+    font-style: normal;
+    /* Sem itálico */
+    color: var(--laranja-claro);
+    /* Cor laranja definida na variável */
+}
+
 /* Container do menu de acessibilidade */
 .menu-acessibilidade {
     position: fixed;
