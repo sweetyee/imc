@@ -45,6 +45,7 @@ h1 {
     /* Tamanho grande para títulos */
     font-style: normal;
     /* Sem itálico */
+    background: color black;
     color: var(--laranja-claro);
     /* Cor laranja definida na variável */
 }
