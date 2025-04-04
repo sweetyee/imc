@@ -5,7 +5,7 @@
 
 /* Define variáveis CSS para cores reutilizáveis */
 :root {
-    --laranja-claro: #2a4aff;
+    --laranja-claro: #f81326;
     /* Cor laranja para destaque */
     --alto-contraste-fundo: #000000;
     /* Cor de fundo para modo alto contraste */
@@ -173,7 +173,7 @@ h1 {
 
 /* Efeito hover para o botão */
 #form-imc button:hover {
-    background-color: #e6711f;
+    background-color: #e61f1f;
     /* Laranja mais escuro ao passar o mouse */
 }
 
